@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua!
-- 👀 I’m interested in coding anything
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in the product managing field
+- 🌱 I’m currently learning SQL
 
 <!---
 Warriorcats625/Warriorcats625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
